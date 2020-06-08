@@ -9,7 +9,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #FF0000;
     border-radius: 0;
     border: 0;
 }
@@ -51,17 +51,17 @@ body {
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: #C6FF25;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: #202020;
+    color: #2FB49F;
     background-color: #fce29e;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #C6FF25;
 }
 
 
@@ -83,7 +83,7 @@ body {
 }
 
 #main-content h3 {
-    font-size: 1.6em;
+    font-size: 1.5em;
     font-weight: bold;
     margin-bottom: 1em;
 }
@@ -91,9 +91,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #2FB49F;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px #2324FF;
 }
 
 
